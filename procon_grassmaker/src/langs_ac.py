@@ -135,6 +135,8 @@ languages_atcoder = {
     "Python3 (3.2.3)": ".py",
     "Python3 (3.4.2)": ".py",
     "Python3 (3.4.3)": ".py",
+    "Python (CPython 3.11.4)": ".py",
+    "Python (PyPy 3.10-v7.3.12)": ".py",
     "Racket (7.6)": ".rkt",
     "Raku (Rakudo 2020.02.1)": ".raku",
     "Ruby (1.9.3)": ".rb",
